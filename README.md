@@ -2,6 +2,6 @@
 - Erick Antonio Correa Dos Reis
 - Matrícula: 15/0034156
 
-#### Lengenda Agenda:
+#### Legenda Agenda:
 * Vermelho: Provas
 * Amarelo: Trabalhos / Projetos
